@@ -13,7 +13,7 @@ name                     : &name "Lu Luo"
 description              : &description "Lecturer at Beijing Sport University"
 url                      : https://Lu-Luo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Lu-Luo/Lu-Luo.github.io"
+repository               : "Lu-Luo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lu Luo, PhD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "School of Psychology"
-  employer         : "Beijing Sport University,China"
+  bio              : "Lecturer at School of Psychology, Beijing Sport University"
+  location         : "Beijing, China"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=YxulnAwAAAAJ&hl=en&oi=sra"
   email            : "luolu@bsu.edu.cn"
