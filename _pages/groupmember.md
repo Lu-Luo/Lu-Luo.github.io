@@ -1,9 +1,9 @@
 ---
+layout: archive
 permalink: /groupmember/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+title: "Group members"
+excerpt: "Group members"
 author_profile: true
-
 ---
 
 This is a page not in the menu. You can use markdown in this page.
