@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Disparity in Interaural Time Difference Improves the Accuracy of Neural Representations of Concurrent Sounds in Rat Inferior Colliculus and Auditory Cortex"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This follow-up study of Luo et al., 2017 found distinct mechanisms of sound segregation in IC and AC.'
+date: 2020-02-10
+venue: 'Journal of Neurophysiology'
+paperurl: 
+citation: 'Luo, L., Xu, N., Wang, Q., & Li, L. (2020). Disparity in interaural time difference improves the accuracy of neural representations of individual concurrent narrowband sounds in rat inferior colliculus and auditory cortex. <i>Journal of Neurophysiology</i>, 123(2), 695-706.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This follow-up study of Luo et al., 2017 found distinct mechanisms of sound segregation in IC and AC.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Luo, L., Xu, N., Wang, Q., & Li, L. (2020). Disparity in interaural time difference improves the accuracy of neural representations of individual concurrent narrowband sounds in rat inferior colliculus and auditory cortex. <i>Journal of Neurophysiology</i>, 123(2), 695-706.
