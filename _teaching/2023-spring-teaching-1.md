@@ -1,5 +1,5 @@
 ---
-title: "Research Technologies in Cognitive Neuroscience"
+title: "Technologies in Cognitive Neuroscience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1
