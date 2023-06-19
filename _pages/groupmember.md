@@ -1,12 +1,12 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
-excerpt: "This is a page not in th emain menu"
+layout: archive
+permalink: /groupmember/
+title: "Group members"
+excerpt: "Group members"
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
+
+{% include base_path %}
 
 This is a page not in the menu. You can use markdown in this page.
 
