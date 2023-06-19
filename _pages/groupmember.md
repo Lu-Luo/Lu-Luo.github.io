@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /groupmember/
+permalink: /groupmembers/
 title: "Group members"
 excerpt: "Group members"
 author_profile: true
@@ -8,10 +8,9 @@ author_profile: true
 
 {% include base_path %}
 
-This is a page not in the menu. You can use markdown in this page.
+Now the only member is me.
 
-Heading 1
+Calling for new members!
 ======
 
-Heading 2
-======
+
