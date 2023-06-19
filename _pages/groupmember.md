@@ -10,8 +10,7 @@ author_profile: true
 
 Now the only member is me.
 
-Heading 1
+Calling for new members!
 ======
 
-Heading 2
-======
+
