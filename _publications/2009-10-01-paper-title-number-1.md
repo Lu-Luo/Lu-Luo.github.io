@@ -2,10 +2,10 @@
 title: "Neural representations of concurrent sounds with overlapping spectra in rat inferior colliculus: Comparisons between temporal-fine structure and envelope"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is about the sound segregation process in rat IC.'
 date: 2017-9-01
 venue: 'Hearing Research'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 
 citation: 'L Luo, Q Wang, L Liang. (2017). &quot;Neural representations of concurrent sounds with overlapping spectra in rat inferior colliculus: Comparisons between temporal-fine structure and envelope.&quot; <i>Hearing Research</i>. 353.'
 ---
 
