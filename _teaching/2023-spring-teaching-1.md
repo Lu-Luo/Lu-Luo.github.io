@@ -2,7 +2,7 @@
 title: "Research Technologies in Cognitive Neuroscience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2023-spring-teaching-1
 venue: "Beijing Sport University, School of Psychology"
 date: 2023-02-13
 location: "Beijing, China"
