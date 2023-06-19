@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Research Technologies in Cognitive Neuroscience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Beijing Sport University, School of Psychology"
+date: 2023-02-13
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A course opens every spring semester, including lectures, journal clubs, and hands-on activities. In this course, I aim to help students explore cutting-edge research methodologies, such as functional magnetic resonance imaging (fMRI), electroencephalography (EEG), and eye tracking.
 
 Heading 1
 ======
