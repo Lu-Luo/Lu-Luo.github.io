@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in School of Life Sciences, Peking University, 2011
-* Ph.D in School of Psychological and Cognitive Sciences, Peking University, 2018
+* Ph.D. in School of Psychological and Cognitive Sciences, Peking University, 2018
 
 Work experience
 ======
@@ -22,14 +22,12 @@ Work experience
 * 2018 - 2020: Postdoc Research Fellow
   * School of Psychological and Cognitive Sciences, Peking University
   
-Skills
+Research keywords
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Heart-brain interaction
+* Neural oscillations
+* Intracranial EEG
+  
 
 Publications
 ======
