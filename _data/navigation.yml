@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Group Member"
-    url: /groupmember/
+  - title: "Group Members"
+    url: /markdown/
