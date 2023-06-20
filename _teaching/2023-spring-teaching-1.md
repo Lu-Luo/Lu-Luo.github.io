@@ -10,11 +10,4 @@ location: "Beijing, China"
 
 A course opens every spring semester, including lectures, journal clubs, and hands-on activities. In this course, I aim to help students explore cutting-edge research methodologies, such as functional magnetic resonance imaging (fMRI), electroencephalography (EEG), and eye tracking.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
