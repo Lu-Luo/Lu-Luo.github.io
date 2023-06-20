@@ -12,6 +12,8 @@ Hello there! I'm Lu, and I'm excited to introduce myself as a Lecturer at Beijin
 
 Lab News
 ======
+2023-06-20
+------
 Starting this fall: positions are open for graduate students. 
 
 
