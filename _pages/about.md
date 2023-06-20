@@ -12,7 +12,7 @@ Hello there! I'm Lu, and I'm excited to introduce myself as a Lecturer at Beijin
 
 Lab News
 ======
-
+Starting this fall: positions are open for graduate students. 
 
 
 
