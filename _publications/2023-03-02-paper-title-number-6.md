@@ -3,7 +3,7 @@ title: "Studying rhythm processing in speech through the lens of auditory-motor 
 collection: publications
 permalink: /publication/2023-03-02-paper-title-number-6
 excerpt: 'A mini-review proposing new perspectives in studying rhythm processing in speech.'
-date: 2020-02-10
+date: 2023-03-02
 venue: 'Frontiers in Neuroscience'
 paperurl: 
 citation: 'Luo, L., & Lu, L. (2023). Studying rhythm processing in speech through the lens of auditory-motor synchronization. <i>Frontiers in Neuroscience</i>, 17, 1146298.'
