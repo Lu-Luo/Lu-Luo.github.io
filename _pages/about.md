@@ -14,7 +14,7 @@ Lab News
 ======
 2023-06-20
 ------
-Starting this fall: positions are open for graduate students. 
+Starting this fall: positions are open for graduate students. Undergraduate interns are also welcome.
 
 
 
